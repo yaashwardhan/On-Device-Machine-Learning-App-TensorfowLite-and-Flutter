@@ -4,4 +4,4 @@
 3) Using plugins like tflite and image_picker, and on-device machine learning, created this app that is able to detect 30+ different types of fruits and vegetables
 
 
-![alt text](https://i.ibb.co/M9hjQ7z/homepage.png)
+![alt text](https://i.postimg.cc/HLD586q8/homepage.png)
