@@ -1,4 +1,4 @@
-# Fruits and Veggie Detector with 30+ Categories (by Yashwardhan Deshmukh)
+# Fruits and Veggies Detector with 30+ Categories (by Yashwardhan Deshmukh)
 
 A new Flutter project involving On-Device Machine Learning.
 Assets include images and the trained .tflite file.
