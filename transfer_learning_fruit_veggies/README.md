@@ -1,6 +1,9 @@
 # transfer_learning_fruit_veggies
 
 A new Flutter project.
+Assets include images and .tflite file
+info.plist and android xml file has been modified to allow camera and gallery access
+You can clone this repo and sign the app on your iOS or android and test it out urself!
 
 ## Getting Started
 
